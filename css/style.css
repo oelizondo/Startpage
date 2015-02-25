@@ -5,7 +5,6 @@ body
 	background-size: cover;
 	display: flex;
 	font-family: 'Lato', sans-serif;
-	background-size: cover;
 	justify-content: center;
 	height: 100%;
 }
@@ -18,13 +17,12 @@ body
 }
 .container
 {
-	align-self: center;
+	margin: 150 0;
 	max-width: 500px;
 	height: auto;
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
-	align-items: center;
 	background: #2c3e50;
 	border-radius: 5px;
 	padding: 20px;
